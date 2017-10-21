@@ -5,7 +5,11 @@
     "license": "GPL-2.0+",
     "require": {
         "composer/installers": "^1.0.24",
-        "wikimedia/composer-merge-plugin": "^1.4"
+        "wikimedia/composer-merge-plugin": "^1.4",
+        "phpdocumentor/reflection-docblock": "~2.0.0",
+        "drush/drush": "9.0.0-beta5",
+        "drupal/console": "~1.0",
+        "fourkitchens/emulsify": "^2.2"
     },
     "replace": {
         "drupal/core": "^8.4"
